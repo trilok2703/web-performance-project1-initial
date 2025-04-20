@@ -101,11 +101,6 @@ section.hero img {
     width: 100%;
     height: auto;
     filter: brightness(50%);
-    display: none;
-}
-
-section.hero img.desktop {
-    display: initial;
 }
 
 .hero-content {
@@ -475,14 +470,6 @@ footer .copyright-text {
     
     header nav ul li.menu-icon {
         display: inline-block;
-    }
-
-    section.hero img.desktop {
-        display: none;
-    }
-
-    section.hero img.tablet {
-        display: initial;
     }
 
     .hero-content h1 {
