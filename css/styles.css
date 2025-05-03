@@ -177,7 +177,7 @@ section.hero img {
     max-width: 100%;
     border-radius: 92px;
     background-color: #33c6dd;
-    color: #FFF;
+    color: #262626;
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 0.4px;
@@ -291,7 +291,7 @@ section.best-sellers .product-slider .product .product-info {
 }
 
 section.best-sellers .product-slider .product .product-info .categories {
-    color: #33c6dd;
+    color: #0D5F72;
     font-weight: normal;
     font-size: 14px;
     letter-spacing: 0.35px;
@@ -325,7 +325,7 @@ section.best-sellers .product-slider .product .product-info .price .discounted-p
 }
 
 section.best-sellers .product-slider .product .product-info .price .original-price {
-    color: #9B9B9B;
+    color: #595959;
     font-weight: normal;
     font-size: 16px;
     letter-spacing: 0.4px;
